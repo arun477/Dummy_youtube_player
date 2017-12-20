@@ -1,0 +1,42 @@
+body {
+  overflow-x:hidden;
+  
+}
+
+.container {
+  max-width:1400px !important;
+}
+
+.search-bar {
+  margin:20px;
+  text-align:center
+}
+
+.search-bar input {
+  width:75%;
+  padding:5px;
+}
+
+.video-detail .details {
+  margin-top:10px;
+  padding:10px;
+  border :1px solid #ddd;
+  margin-bottom :10px;
+}
+
+.list-group-item {
+  cursor :pointer;
+  margin:3px;
+  width:100%;
+
+}
+
+.list-group-item:hover {
+  background-color:#ddd !important;
+
+}
+
+.media-body p {
+  margin-left:9px;
+  font-size:0.9em;
+}
